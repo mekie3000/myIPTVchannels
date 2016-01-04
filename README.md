@@ -5,12 +5,17 @@ O projecto é aberto à participação de todos.
 
 Atenção: <b>Todas as ligações de streams disponibilizados nas listas foram retiradas da internet. A comunidade apenas as organiza, disponibiliza e partilha. Não detemos qualquer servidor e/ou trasmitimos ou re-emitimos qualquer tipo de sinal</b>.
 
+##Addon surikata TV (Kodi)
+Com base neste projecto, o <b>Discave</b> criou um addon com todas as listas aqui presentes já configuradas. Agora basta adicionar o repositório <b>http://kodi.discavehb.com</b>, instalar o mesmo (discave.repo.zip) e depois adicionar o addon: Discave Repositório > Video addon > <b>"surikata TV"</b>.
+
 ##URLs myIPTVChannels (Kodi, VLC, etc.)
 Portugal Channels: pt.m3u = http://git.io/vZohP
 
 Sports Channels: sports.m3u = http://git.io/vZPSM
 
 Portugal Channels para Wiseplay: pt-wiseplay.wise = http://git.io/v8TRX
+
+Portugal Channels XML: pt.xml = http://git.io/vut0O
 
 Movies: movies.m3u = http://git.io/vnUb0
 
