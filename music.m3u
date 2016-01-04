@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/xvxqyq1433944862.png", 538 TV
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
-#EXTINF:0, Albmusic HD (Albania)
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/sywpqu1434039120.png/medium", Albmusic HD (Albania)
 rtmp://188.138.17.8:1935/albuk/albmus.stream
 #EXTINF:0, AMAZING TV HD
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
