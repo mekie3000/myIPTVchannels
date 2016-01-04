@@ -2,7 +2,7 @@
 #EXTINF:-1, [B]--- Canais ---[/B]
 http://0.0.0.0
 
-#EXTINF:0 tvg-logo="tcpremium.png" tvg-logo="http://www.tvaovivolista.com/tcpremium.png", Telecine Premium
+#EXTINF:0 tvg-logo="http://www.tvaovivolista.com/tcpremium.png", Telecine Premium
 http://37.203.209.34:443/mobile/flash24sd/live.m3u8
 
 #EXTINF:0 tvg-logo="sbt.png" tvg-logo="http://www.tvaovivolista.com/sbt.png", SBT HQ
@@ -18,7 +18,7 @@ http://www.watch-simpsons.com/downloads/3%20Headed%20Shark%20Attack%20(2015)%20%
 #EXTINF:-1, 4Got10 (2015) [1080p]
 http://www.watch-simpsons.com/downloads/4Got10%20(2015)%20%5b1080p%5d/4Got10.2015.1080p.BluRay.x264.YIFY.mp4
 
-#EXTINF:-1, A Brilliant Young Mind (2014)
+#EXTINF:-1, tvg-logo="http://www.movieposterdb.com/posters/15_04/2014/3149038/l_3149038_302922cc.jpg", A Brilliant Young Mind (2014)
 http://www.watch-simpsons.com/downloads/A%20Brilliant%20Young%20Mind%20(2014)/A.Brilliant.Young.Mind.2014.720p.BluRay.x264.YIFY.mp4
 
 #EXTINF:-1, A La Mala [Bluray rip][Espanhol Latino]
