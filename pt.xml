@@ -1,83 +1,83 @@
 <channels>
 <channel> 
-<name>[COLOR deepskyblue] √ [COLOR lime]CaboVisão [/COLOR][COLOR orange]•[HugoCosta]•[/COLOR] </name> 
+<name>[COLOR deepskyblue] √ [COLOR lime]Lista PT [/COLOR][COLOR orange]•[HugoCosta]•[/COLOR] </name> 
 <thumbnail> </thumbnail>
  <fanart> </fanart> 
 </subitem>
  </item> 
 <item>  
  <title>[COLOR=yellow][B][I]RTP 1 [/I][/B][/COLOR]</title> 
-<link> http://127.0.0.1:9294/c/RTP1.m3u8</link>
+<link>http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8</link>
  <thumbnail> </thumbnail>   
  </item>
 <item>  
  <title>[COLOR=yellow][B][I]RTP 2 [/I][/B][/COLOR]</title> 
-<link> http://127.0.0.1:9294/c/RTP2.m3u8</link>
+<link>http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8</link>
  <thumbnail> </thumbnail>   
  </item>
 <item>  
  <title>[COLOR=yellow][B][I]Sic [/I][/B][/COLOR]</title> 
-<link> http://127.0.0.1:9294/c/SIC.m3u8</link>
+<link>http://noscdn1.connectedviews.com:1935/live/sic.stream/chunklist_w1329392400.m3u8</link>
  <thumbnail> </thumbnail>   
  </item>
 <item>  
  <title>[COLOR=yellow][B][I]Tvi [/I][/B][/COLOR]</title> 
-<link> http://127.0.0.1:9294/c/TVI.m3u8</link>
+<link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8</link>
  <thumbnail> </thumbnail>   
  </item>
 <item>  
  <title>[COLOR=yellow][B][I]Sic Notícias [/I][/B][/COLOR]</title> 
-<link> http://127.0.0.1:9294/c/SICN.m3u8</link>
+<link>rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html</link>
  <thumbnail> </thumbnail>   
  </item>
 <item>  
  <title>[COLOR=yellow][B][I]Tvi 24 [/I][/B][/COLOR]</title> 
-<link> http://127.0.0.1:9294/c/TVI24.m3u8</link>
+<link>http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b1564000.m3u8</link>
  <thumbnail> </thumbnail>   
  </item>
 <item>  
  <title>[COLOR=yellow][B][I]Disney Channel [/I][/B][/COLOR]</title> 
-<link> http://127.0.0.1:9294/c/Disney.m3u8</link>
+<link> http://</link>
  <thumbnail> </thumbnail>   
  </item>
 <item>  
  <title>[COLOR=yellow][B][I]Canal Panda [/I][/B][/COLOR]</title> 
-<link> http://127.0.0.1:9294/c/Panda.m3u8</link>
+<link> http://</link>
  <thumbnail> </thumbnail>   
  </item>
 <item>  
  <title>[COLOR=yellow][B][I]Hollywood [/I][/B][/COLOR]</title> 
-<link> http://127.0.0.1:9294/c/Hollywood.m3u8</link>
+<link>rtmp://$doregex[get-ip]/live playpath=hollywoodx?id=84769&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/hollywoodx/1/650/500</link>
  <thumbnail> </thumbnail>   
  </item>
 <item>  
  <title>[COLOR=yellow][B][I]Mov [/I][/B][/COLOR]</title> 
-<link> http://127.0.0.1:9294/c/Mov.m3u8</link>
+<link>rtmp://$doregex[get-ip]/live/ playpath=foxcrl?id=24274$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
  <thumbnail> </thumbnail>   
  </item>
 <item>  
  <title>[COLOR=yellow][B][I]Axn [/I][/B][/COLOR]</title> 
-<link> http://127.0.0.1:9294/c/AXN.m3u8</link>
+<link>rtmp://$doregex[get-ip]/live playpath=axn1x?id=77969&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/axn1x/1/650/450</link>
  <thumbnail> </thumbnail>   
  </item>
 <item>  
  <title>[COLOR=yellow][B][I]Tv Record [/I][/B][/COLOR]</title> 
-<link> http://127.0.0.1:9294/c/TVRecord.m3u8</link>
+<link>rtmp://62.210.89.38:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxNSA2OjI0OjEwIFBNJmhhc2hfdmFsdWU9SnZxSmxKMWJDamljeHB4ZHBST0ptQT09JnZhbGlkbWludXRlcz0zMDA=/ playpath=101010 swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embedStream.php?c=ssscas2&vw=100%&vh=100%&referrer=http://tvxat.info/globo-ao-vivo-tv-online-24hs</link>
  <thumbnail> </thumbnail>   
  </item>
 <item>  
  <title>[COLOR=yellow][B][I]Discovery Channel [/I][/B][/COLOR]</title> 
-<link> http://127.0.0.1:9294/c/Discovery.m3u8</link>
+<link>rtmp://$doregex[get-ip]/live playpath=discoveryx?id=84775&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/discoveryx/1/650/500</link>
  <thumbnail> </thumbnail>   
  </item>
 <item>  
  <title>[COLOR=yellow][B][I]Fox [/I][/B][/COLOR]</title> 
-<link> http://127.0.0.1:9294/c/Fox.m3u8</link>
+<link>rtmp://$doregex[get-ip]/live/ playpath=foxcrl?id=24274$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
  <thumbnail> </thumbnail>   
  </item>
 <item>  
  <title>[COLOR=yellow][B][I]Fox Life [/I][/B][/COLOR]</title> 
-<link> http://127.0.0.1:9294/c/FoxLife.m3u8</link>
+<link>rtmp://$doregex[get-ip]/stream playpath=foxlifea?id=19709$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
  <thumbnail> </thumbnail>   
  </item>
 </channel>
